@@ -1,7 +1,7 @@
 {
-  "targetRevisionAtLastExport": "1418889",
-  "sourceRevisionAtLastExport": "1a4026b7",
+  "targetRevisionAtLastExport": "6c8213bbd3ce7c222f89c0ea7f49f9e88fe4e946\n",
+  "sourceRevisionAtLastExport": "b6466ac3cbdca9dcc563e00b5b3443c56accf1fc\n",
   "curatedFiles": {
-
+    "/262-fully-curated-vendor-not-modified/array-flatten.js": "DELETED_IN_TARGET"
   }
 }
