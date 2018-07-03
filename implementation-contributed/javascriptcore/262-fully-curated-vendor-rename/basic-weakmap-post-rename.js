@@ -43,3 +43,11 @@ noInline(test);
 
 for (var i = 0; i < 1e4; ++i)
     test();
+
+    /*
+    ********************************** test262-automation **********************************
+    Summary: Source file renamed after curation & deletion of exported file.
+        File Status: Fully curated & deleted
+        Source Status: Renamed since curation & deletion.
+        This file name and location now matches the source which was exported on Tue Jul 03 2018 10:42:36 GMT-0400 (Eastern Daylight Time)
+    */
