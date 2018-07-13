@@ -2,6 +2,9 @@
   "targetRevisionAtLastExport": "1418889",
   "sourceRevisionAtLastExport": "1a4026b7",
   "curatedFiles": {
-
+    "/.gitkeep": "DELETED_IN_TARGET",
+    "/262-does-not-exist-vendor-new-exportable-file/.gitkeep": "DELETED_IN_TARGET",
+    "/262-does-not-exist-vendor-new-unexportable-file/.gitkeep": "DELETED_IN_TARGET",
+    "/262-fully-curated-vendor-not-modified/array-flatten.js": "DELETED_IN_TARGET"
   }
 }
