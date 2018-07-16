@@ -41,3 +41,11 @@ var abort = $vm.abort;
     print(String(error));
     abort();
 });
+
+    /*
+    ********************************** test262-automation **********************************
+    Summary: Source file renamed after partial curation & modification of exported file.
+        File Status: Partially curated & modified.
+        Source Status: Renamed since export.
+        This file name and location now matches the source which was exported on Mon Jul 16 2018 14:20:48 GMT-0400 (Eastern Daylight Time)
+    */
