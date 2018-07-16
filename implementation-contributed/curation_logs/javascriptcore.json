@@ -1,7 +1,10 @@
 {
-  "targetRevisionAtLastExport": "577c7a9",
+  "targetRevisionAtLastExport": "eb1d67d",
   "sourceRevisionAtLastExport": "6c8213bb",
   "curatedFiles": {
-    "/262-fully-curated-vendor-not-modified/array-flatten.js": "DELETED_IN_TARGET"
+    "/262-fully-curated-vendor-not-modified/array-flatten.js": "DELETED_IN_TARGET",
+    "/262-only-modified-by-test262-auto-vendor-deleted/number-to-string.js": "DELETED_IN_TARGET",
+    "/262-partially-curated-vendor-deleted/date-negative-zero.js": "DELETED_IN_TARGET",
+    "/APPEND_MODIFIED_TARGET_WITH_NOTE_ON_SOURCE_DELETION/has-own-property-called-on-non-object.js": "DELETED_IN_TARGET"
   }
 }
