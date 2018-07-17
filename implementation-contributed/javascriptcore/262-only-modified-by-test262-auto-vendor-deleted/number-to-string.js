@@ -80,3 +80,11 @@ function expected(num, radix)
 }
 
 // modify number-to-string.js
+
+    /*
+    ********************************** test262-automation **********************************
+    Summary: Source file deleted after partial curation.
+        File Status: Partially curated & modified.
+        Source Status: Deleted since export.
+        This message was added on Tue Jul 17 2018 15:32:56 GMT-0400 (Eastern Daylight Time)
+    */
