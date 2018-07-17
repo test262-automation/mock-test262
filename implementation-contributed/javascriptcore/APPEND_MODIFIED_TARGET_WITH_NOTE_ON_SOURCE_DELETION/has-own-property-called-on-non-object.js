@@ -22,3 +22,11 @@ for (let i = 0; i < 10000; i++)
     foo(objs[i % objs.length]);
 
 foo("foo");
+
+    /*
+    ********************************** test262-automation **********************************
+    Summary: Source file deleted after partial curation.
+        File Status: Partially curated & modified.
+        Source Status: Deleted since export.
+        This message was added on Tue Jul 17 2018 10:18:19 GMT-0400 (Eastern Daylight Time)
+    */
