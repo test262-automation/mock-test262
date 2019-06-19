@@ -1,7 +1,10 @@
 {
-  "targetRevisionAtLastExport": "1418889",
-  "sourceRevisionAtLastExport": "1a4026b7",
+  "targetRevisionAtLastExport": "cad0913",
+  "sourceRevisionAtLastExport": "6c8213b",
   "curatedFiles": {
-
+    "/262-fully-curated-vendor-not-modified/array-flatten.js": "DELETED_IN_TARGET",
+    "/262-only-modified-by-test262-auto-vendor-deleted/number-to-string.js": "DELETED_IN_TARGET",
+    "/262-partially-curated-vendor-deleted/date-negative-zero.js": "DELETED_IN_TARGET",
+    "/APPEND_MODIFIED_TARGET_WITH_NOTE_ON_SOURCE_DELETION/has-own-property-called-on-non-object.js": "DELETED_IN_TARGET"
   }
 }
